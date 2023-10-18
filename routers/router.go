@@ -1,8 +1,8 @@
 package routers
 
 import (
-	"github.com/99MyCql/chatRoom/controllers"
 	"github.com/astaxie/beego"
+	"github.com/victorfengming/gochatroom/controllers"
 )
 
 func init() {

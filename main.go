@@ -1,11 +1,10 @@
 package main
 
 import (
-	_ "github.com/99MyCql/chatRoom/routers"
 	"github.com/astaxie/beego"
+	_ "github.com/victorfengming/gochatroom/routers"
 )
 
 func main() {
 	beego.Run()
 }
-
